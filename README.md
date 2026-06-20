@@ -14,7 +14,6 @@ Focused on automation, distributed systems, and scalable software architecture.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat-square)
 
 </div>
 

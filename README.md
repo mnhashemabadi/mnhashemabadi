@@ -4,7 +4,7 @@
 
 ## Building intelligent and scalable software systems
 
-I develop backend services, AI-powered applications, and blockchain solutions with a focus on performance, reliability, and real-world impact.
+I build scalable backend systems, integrate AI into production workflows, and develop blockchain solutions focused on performance, reliability, and practical impact.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -12,17 +12,8 @@ I develop backend services, AI-powered applications, and blockchain solutions wi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Backend](https://img.shields.io/badge/Backend-Engineer-blue?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Integration-green?style=flat-square)
-![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat-square)
-![OpenSource](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-Working%20With-black?style=flat-square)
-![Agents](https://img.shields.io/badge/AI%20Agents-Building-blue?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Exploring-green?style=flat-square)
-![Web3](https://img.shields.io/badge/Web3-Developing-purple?style=flat-square)
 
 </div>
-
 ---
 
 <details>

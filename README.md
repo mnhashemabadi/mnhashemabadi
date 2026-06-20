@@ -23,15 +23,15 @@
 🇮🇷 مهندس نرم‌افزار با تمرکز بر توسعه‌ی Backend، هوش مصنوعی و بلاکچین. طراحی APIهای REST/GraphQL، مدیریت داده‌های توزیع‌شده، و خودکارسازی CI/CD از حوزه‌های اصلی تخصصم هستند. نوشتن کد تمیز، قابل‌تست و قابل‌نگهداری برام یک اصل پایه است. با بیش از **۷۵ ریپوزیتوری عمومی**، یک مشارکت‌کننده فعال در اکوسیستم متن‌باز هستم.
 
 ---
-
+<div align="left" dir="ltr">
 🇺🇸 Software engineer specializing in scalable backend systems, AI integration, and blockchain development. I architect REST & GraphQL APIs, manage distributed data pipelines, and automate CI/CD workflows — always with clean, testable, maintainable code as a first principle. Active open-source contributor with **75+ public repositories** across TypeScript, Python, and JavaScript ecosystems.
 
 ---
-
+<div align="left" dir="ltr">
 🇨🇳 专注于后端系统、人工智能集成与区块链开发的软件工程师。擅长设计 REST 和 GraphQL API、管理分布式数据管道，以及自动化 CI/CD 工作流程。始终将简洁、可测试、可维护的代码作为首要原则。拥有 **75+ 个公开仓库**，是活跃的开源贡献者，深耕 TypeScript、Python 与 JavaScript 生态系统。
 
 ---
-
+<div align="left" dir="ltr">
 🇷🇺 Инженер-программист, специализирующийся на масштабируемых бэкенд-системах, интеграции ИИ и разработке блокчейн-решений. Проектирую REST и GraphQL API, управляю распределёнными конвейерами данных и автоматизирую CI/CD процессы — всегда ставя чистый, тестируемый и поддерживаемый код во главу угла. Активный контрибьютор open-source с **75+ публичными репозиториями**.
 
 ---
@@ -207,11 +207,11 @@ Production-ready NFT launchpad with 6,666 max supply on Base blockchain — laun
 <br>
 <div align="right" dir="rtl">
 🇮🇷 آماده همکاری در پروژه‌های جالب در حوزه AI، بکند و Web3 هستم.
-
+<div align="left" dir="ltr">
 🇺🇸 Open to collaborations on interesting projects in AI, backend systems & Web3.
-
+<div align="left" dir="ltr">
 🇨🇳 欢迎在人工智能、后端系统与 Web3 领域开展项目合作。
-
+<div align="left" dir="ltr">
 🇷🇺 Открыт к сотрудничеству по интересным проектам в области ИИ, бэкенда и Web3.
 <div align="right" dir="rtl">
 🇸🇦 منفتح على التعاون في مشاريع مثيرة في مجالات الذكاء الاصطناعي والخلفية وWeb3.

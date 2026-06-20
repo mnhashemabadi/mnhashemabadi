@@ -2,17 +2,19 @@
 
 **Backend Engineer · AI Integrator · Blockchain Developer**
 
-## Building intelligent and scalable software systems
+## Engineering reliable backends, intelligent AI workflows, and decentralized applications.
 
-I build scalable backend systems, integrate AI into production workflows, and develop blockchain solutions focused on performance, reliability, and practical impact.
+Focused on backend architecture, AI-powered automation, and blockchain systems with an emphasis on scalability and production readiness.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-Building-blue?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 </div>
 ---

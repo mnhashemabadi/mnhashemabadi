@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/20112623?v=4" width="100" style="border-radius:50%"/>
-
 # Mohammad Nasser H. Hashemabadi
 ### `mnhashemabadi`
 

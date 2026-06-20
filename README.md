@@ -6,10 +6,20 @@
 
 I develop backend services, AI-powered applications, and blockchain solutions with a focus on performance, reliability, and real-world impact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnhashemabadi/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mnhashemabadi)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mnhashemabadi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mnhashemabadi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Backend](https://img.shields.io/badge/Backend-Engineer-blue?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Integration-green?style=flat-square)
+![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat-square)
+![OpenSource](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-Working%20With-black?style=flat-square)
+![Agents](https://img.shields.io/badge/AI%20Agents-Building-blue?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Exploring-green?style=flat-square)
+![Web3](https://img.shields.io/badge/Web3-Developing-purple?style=flat-square)
 
 </div>
 

@@ -1,9 +1,10 @@
 <div align="center">
 
-# Mohammad Nasser H. Hashemabadi
-### `mnhashemabadi`
-
 **Backend Engineer · AI Integrator · Blockchain Developer**
+
+## Building intelligent and scalable software systems
+
+I develop backend services, AI-powered applications, and blockchain solutions with a focus on performance, reliability, and real-world impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnhashemabadi/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mnhashemabadi)

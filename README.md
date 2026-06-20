@@ -17,7 +17,6 @@ Focused on automation, distributed systems, and scalable software architecture.
 ![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat-square)
 
 </div>
----
 
 <details>
 <summary><b>📁 About Me</b></summary>

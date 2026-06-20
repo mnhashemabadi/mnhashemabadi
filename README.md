@@ -8,10 +8,12 @@ I build scalable backend systems, integrate AI into production workflows, and de
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat-square)
+![OpenSource](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-Working%20With-black?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
 
 </div>
 ---

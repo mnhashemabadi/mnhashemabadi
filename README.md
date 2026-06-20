@@ -44,9 +44,39 @@ TypeScript • JavaScript • Solidity • Python • PHP • React • Node.js 
 
 ---
 
-## English — Short professional About (optional)
-Hi — I'm Mohammad (mnhashemabadi), a Software Engineer and Full‑Stack Developer specializing in Web3, smart contracts and AI-powered systems. I build secure, scalable, production-ready applications—from AI decision support systems for agriculture to smart contracts and browser tools for real-time crypto monitoring.
+## 👋 Hi, I'm Mohammad  (mnhashemabadi)
 
-Core skills: Solidity, TypeScript, Node.js, React, Python, Web3.js, Docker; experience integrating with Binance/Coinbase APIs and deploying reliable CI/CD pipelines.
+Backend engineer, AI integrator & blockchain developer building scalable systems and real-world impact products.
 
-(If you want, I can expand this English section for LinkedIn or resume use.)
+📍 Iran  |  🔗 [LinkedIn](https://www.linkedin.com/in/mnhashemabadi/)  |  🐦 [@mnhashemabadi](https://x.com/mnhashemabadi)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python · TypeScript · JavaScript · SQL  
+**Frameworks:** Node.js · FastAPI · Django · Express  
+**Databases:** PostgreSQL · MongoDB · Redis  
+**DevOps:** Docker · GitHub Actions · Terraform · AWS  
+**Domains:** AI Integration · Blockchain · Web3 / NFT
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [Nogital Focus](https://github.com/mnhashemabadi/nogital-focus) | AI-powered productivity app with smart task management | ⭐ 7 |
+| [AgriFarm](https://github.com/mnhashemabadi/AgriFarm) | AI decision support for smart agriculture & Lake Urmia restoration | ⭐ 5 |
+| [Chrome DNS Extension](https://github.com/mnhashemabadi/chrome-dns-extension) | Multilingual DNS manager for Chrome | ⭐ 6 |
+| [Ziman AI Extension](https://github.com/mnhashemabadi/ziman-ai-extension) | Kurdish & multilingual AI translation Chrome extension | ⭐ 1 |
+
+---
+
+### 💡 How I work
+
+- ✅ Clean, testable, maintainable code as a standard
+- 🔁 CI/CD pipelines & reproducible environments
+- 🧩 Microservices, API design, and system scalability
+- 🤝 Open-source contributor · 75+ public repositories
+

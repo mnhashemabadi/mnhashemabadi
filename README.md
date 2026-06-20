@@ -9,7 +9,7 @@ I build scalable backend systems, integrate AI into production workflows, and de
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-Building-blue?style=flat-square)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Web3-purple?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=flat-square)
